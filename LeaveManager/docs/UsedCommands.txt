@@ -1,6 +1,0 @@
-1) mvn archetype:generate -DgroupId=org.myprojects -DartifactId=LeaveManager -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
-2) cd LeaveManager
-3) mvn eclipse:eclipse -Dwtpversion=2.0
-
-4)mvn package
-5)mvn tomcat:run
